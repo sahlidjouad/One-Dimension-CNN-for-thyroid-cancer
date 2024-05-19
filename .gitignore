@@ -1,0 +1,13 @@
+Model/trained_model
+Model/plots
+Model/log
+
+Model/trush
+Model/details
+Model/.ipynb_checkpoints
+dataset
+.pytest_cache
+.vscode
+__pycache__
+*.pyc
+*.html
